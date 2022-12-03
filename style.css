@@ -1,0 +1,14 @@
+
+.navbar{
+   font-size: 30px;
+}
+
+.card{
+   margin: 20px;
+}
+
+#container{
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+}
+
